@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "Как дела",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Всем привет",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Lorem ipsum",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "123",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
